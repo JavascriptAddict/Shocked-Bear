@@ -1,2 +1,2 @@
 # Shocked-Bear
-A HTML cartoon of a shocked bear.
+A HTML cartoon of a shocked bear. I was bored...
